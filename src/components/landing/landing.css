@@ -1,0 +1,27 @@
+.card{
+    background: #f3f3f3;
+    border: none;
+    box-shadow: 0px 0px 10px 0px #9f9595;
+}
+.landing-page input{
+    border: 1px solid rgb(212, 212, 212) !important;
+    border-radius: 5px;
+    height: 40px;
+    max-width: 350px;
+    width: 100%;
+    font-size: 14px;
+    padding: 8px 12px;
+}
+.landing-page select{
+    border: 1px solid rgb(212, 212, 212) !important;
+    border-radius: 5px;
+    height: 40px;
+    font-size: 14px;
+}
+.landing-page select option{
+    font-size: 14px;
+}
+.landing-page .bottom-text p{
+    margin-bottom: 5px;
+    font-size: 12px;
+}
